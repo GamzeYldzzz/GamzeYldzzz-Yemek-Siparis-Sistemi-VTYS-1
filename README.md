@@ -12,7 +12,7 @@ Gerçek dünya senaryolarına uygun, **3. Normal Form (3NF)** kurallarına tam u
 
 ## Varlık-İlişki (ER) Diyagramı
 
-![ER Diyagramı](docs/ER_Diyagrami.png)
+![ER Diyagramı](dokumanlar/ER_Diyagrami.png)
 
 ## Öne Çıkan Özellikler
 
@@ -26,10 +26,10 @@ Gerçek dünya senaryolarına uygun, **3. Normal Form (3NF)** kurallarına tam u
 ## Proje Yapısı
 
 ```
-/docs       → İş kuralları, gereksinimler, ER diyagramı
-/scripts    → SQL DDL, DML ve programlanabilirlik dosyaları
-README.md   → Bu dosya
-AI_Beyani.md → Yapay Zeka kullanım beyanı
+/dokumanlar      → İş kuralları, gereksinimler, ER diyagramı
+/sqlSorgulari    → SQL DDL, DML ve programlanabilirlik dosyaları
+README.md        → Bu dosya
+yapayZekaBeyani.md → Yapay Zeka kullanım beyanı
 ```
 
 ## Tablolar (13 Adet)
@@ -52,4 +52,4 @@ AI_Beyani.md → Yapay Zeka kullanım beyanı
 
 ## GitHub Deposu
 
-[https://github.com/GamzeYldzzz/Yemek-Siparis-Sistemi-VTYS-1](https://github.com/GamzeYldzzz/Yemek-Siparis-Sistemi-VTYS-1)
+[https://github.com/GamzeYldzzz/GamzeYldzzz-Yemek-Siparis-Sistemi-VTYS-1](https://github.com/GamzeYldzzz/GamzeYldzzz-Yemek-Siparis-Sistemi-VTYS-1)
